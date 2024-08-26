@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"
+        <title>Document</title>
+        <link rel="stylesheet"href="style.css">
+    </head>
+    <body>
+        <!-- div, section, article,aside, header,footer-->
+         <img src="WIN_20240819_12_15_46_Pro.jpg" alt="">
+         <!--my info -->
+         <div>
+            <hi>Emeka Destiny</hi>
+            <p>River State,Nigeria. </p>
+        </div>
+            <p>"Frontend developer and avid developer</p><div>
+                <a href="#">GitHub</a>
+                <a href="#">Frontend mentor</a>
+                <a href="#">Linkedln</a>
+                <a href="#">Twitter</a>
+                <a href="#">Instagram</a></div>
+            </section>
+            </body>
+            </html>
